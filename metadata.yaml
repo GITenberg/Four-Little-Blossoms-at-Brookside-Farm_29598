@@ -1,0 +1,26 @@
+_repo: Four-Little-Blossoms-at-Brookside-Farm_29598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawley, Mabel C.
+    gutenberg_agent_id: '1751'
+    url: http://www.gutenberg.org/2009/agents/1751
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+title: Four Little Blossoms at Brookside Farm
+url: http://www.gutenberg.org/ebooks/29598
